@@ -1,0 +1,10 @@
+# Participant-level data and derived outputs must never be committed
+data/
+output/
+*.xlsx
+*.csv
+*.RData
+*.rds
+.Rhistory
+.Rproj.user/
+.DS_Store
